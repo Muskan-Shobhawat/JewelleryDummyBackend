@@ -1,0 +1,25 @@
+[
+  {
+    "id": "bkg_demo",
+    "userId": "usr_demo",
+    "bookingNo": "BMG-2609-K7Q2P",
+    "certificateNo": "RL-26-00412",
+    "purity": "22K",
+    "grams": 10,
+    "lockedRate": 13605,
+    "totalValue": 136050,
+    "advancePct": 10,
+    "advanceAmount": 13605,
+    "balanceDue": 122445,
+    "branchId": "brn_main",
+    "branchName": "Kanak Jewellers, Clock Tower",
+    "purpose": "Wedding Jewellery",
+    "bookedAt": "2026-09-24T12:30:00.000Z",
+    "expiresAt": "2026-10-24T12:30:00.000Z",
+    "status": "LOCKED",
+    "paymentId": "pay_seed_bmg",
+    "txnId": "txn_bmg",
+    "createdAt": "2026-09-24T12:30:00.000Z",
+    "updatedAt": "2026-09-24T12:30:00.000Z"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "id": "adv_demo",
+    "userId": "usr_demo",
+    "contractNo": "AG-2026-081",
+    "amount": 50000,
+    "rate": 13605,
+    "purity": "22K",
+    "grams": 3.675,
+    "method": "NETBANKING",
+    "depositedAt": "2026-09-24T15:05:00.000Z",
+    "validityDays": 180,
+    "expiresAt": "2027-03-23T15:05:00.000Z",
+    "billingDiscountPct": 0,
+    "status": "ACTIVE",
+    "qrPass": "KJ-ADV-AG2026081-9999",
+    "paymentId": "pay_seed_adv",
+    "createdAt": "2026-09-24T15:05:00.000Z",
+    "updatedAt": "2026-09-24T15:05:00.000Z"
+  }
+]

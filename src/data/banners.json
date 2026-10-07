@@ -1,0 +1,74 @@
+[
+  {
+    "id": "bnr_hero_1",
+    "placement": "hero",
+    "title": "Tradition that defines elegance",
+    "subtitle": "New bridal collection, BIS hallmarked 22K gold",
+    "imageUrl": "https://images.unsplash.com/photo-1679006831648-7c9ea12e5807?auto=format&fit=crop&w=1600&q=80",
+    "mobileImageUrl": "https://images.unsplash.com/photo-1679006831648-7c9ea12e5807?auto=format&fit=crop&w=800&q=80",
+    "ctaText": "Shop Now",
+    "ctaLink": "/jewellery?collection=bridal-edit",
+    "order": 1,
+    "active": true
+  },
+  {
+    "id": "bnr_hero_2",
+    "placement": "hero",
+    "title": "Own gold from just ₹100",
+    "subtitle": "24K 99.9% Digi Gold, stored in insured vaults",
+    "imageUrl": "https://images.unsplash.com/photo-1718752773168-a44aa1601ddd?auto=format&fit=crop&w=1600&q=80",
+    "mobileImageUrl": "https://images.unsplash.com/photo-1718752773168-a44aa1601ddd?auto=format&fit=crop&w=800&q=80",
+    "ctaText": "Buy Digi Gold",
+    "ctaLink": "/digi-gold",
+    "order": 2,
+    "active": true
+  },
+  {
+    "id": "bnr_hero_3",
+    "placement": "hero",
+    "title": "Swarn Sanchay monthly plan",
+    "subtitle": "Pay 11 instalments, the 12th is on us",
+    "imageUrl": "https://images.unsplash.com/photo-1758995116383-f51775896add?auto=format&fit=crop&w=1600&q=80",
+    "mobileImageUrl": "https://images.unsplash.com/photo-1758995116383-f51775896add?auto=format&fit=crop&w=800&q=80",
+    "ctaText": "Start Saving",
+    "ctaLink": "/ema",
+    "order": 3,
+    "active": true
+  },
+  {
+    "id": "bnr_hero_4",
+    "placement": "hero",
+    "title": "Lock today's gold rate",
+    "subtitle": "Book My Gold: 10% advance, 30-day rate lock",
+    "imageUrl": "https://images.unsplash.com/photo-1643656350988-a39ad266a178?auto=format&fit=crop&w=1600&q=80",
+    "mobileImageUrl": "https://images.unsplash.com/photo-1643656350988-a39ad266a178?auto=format&fit=crop&w=800&q=80",
+    "ctaText": "Book Now",
+    "ctaLink": "/book-my-gold",
+    "order": 4,
+    "active": true
+  },
+  {
+    "id": "bnr_strip_1",
+    "placement": "strip",
+    "title": "Up to 25% off making charges on signature pieces",
+    "subtitle": "This festive season",
+    "imageUrl": "https://images.unsplash.com/photo-1768359666502-306694fa6fcf?auto=format&fit=crop&w=1600&q=80",
+    "ctaText": "Explore Offers",
+    "ctaLink": "/jewellery?tag=offer",
+    "order": 1,
+    "active": true,
+    "mobileImageUrl": "https://images.unsplash.com/photo-1768359666502-306694fa6fcf?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "bnr_strip_2",
+    "placement": "strip",
+    "title": "Diamond Edit",
+    "subtitle": "IGI certified solitaires from ₹24,800",
+    "imageUrl": "https://images.unsplash.com/photo-1721103418312-b0057a8c31c2?auto=format&fit=crop&w=1600&q=80",
+    "ctaText": "Shop Diamonds",
+    "ctaLink": "/jewellery?category=diamonds",
+    "order": 2,
+    "active": true,
+    "mobileImageUrl": "https://images.unsplash.com/photo-1721103418312-b0057a8c31c2?auto=format&fit=crop&w=800&q=80"
+  }
+]

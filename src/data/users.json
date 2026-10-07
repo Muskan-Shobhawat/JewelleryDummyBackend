@@ -1,0 +1,60 @@
+[
+  {
+    "id": "usr_demo",
+    "mobile": "9999999999",
+    "name": "Priya Sharma",
+    "email": "priya.sharma@example.com",
+    "dob": "1992-08-14",
+    "anniversary": "2018-11-25",
+    "gender": "F",
+    "avatarUrl": "https://i.pravatar.cc/150?img=47",
+    "role": "CUSTOMER",
+    "isActive": true,
+    "memberTier": "Gold Patron",
+    "kyc": {
+      "pan": "ABCDE1234F",
+      "panName": "PRIYA SHARMA",
+      "status": "VERIFIED",
+      "verifiedAt": "2026-03-02T10:00:00.000Z"
+    },
+    "bank": {
+      "holderName": "Priya Sharma",
+      "bankName": "HDFC Bank",
+      "accountNumberMasked": "XXXXXX4821",
+      "ifsc": "HDFC0001234",
+      "verified": true
+    },
+    "address": {
+      "line1": "45, Shastri Nagar",
+      "line2": "Near Rotary Circle",
+      "landmark": "",
+      "city": "Jodhpur",
+      "state": "Rajasthan",
+      "pincode": "342003"
+    },
+    "wishlist": [
+      "prd_001",
+      "prd_007",
+      "prd_015"
+    ],
+    "notificationsEnabled": true,
+    "language": "en",
+    "createdAt": "2026-01-10T09:00:00.000Z",
+    "updatedAt": "2026-09-20T09:00:00.000Z",
+    "lastLoginAt": "2026-10-06T18:00:00.000Z"
+  },
+  {
+    "id": "usr_admin",
+    "mobile": "8888888888",
+    "name": "Store Admin",
+    "email": "admin@kanakjewellers.demo",
+    "role": "ADMIN",
+    "isActive": true,
+    "kyc": {
+      "status": "VERIFIED"
+    },
+    "wishlist": [],
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z"
+  }
+]

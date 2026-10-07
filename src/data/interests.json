@@ -1,0 +1,54 @@
+[
+  {
+    "id": "int_1",
+    "userId": "usr_demo",
+    "productId": "prd_009",
+    "status": "CONSULTATION_SCHEDULED",
+    "note": "Wedding on 12 Dec, want polki set with tika",
+    "consultationAt": "2026-10-12T11:00:00.000Z",
+    "branchId": "brn_main",
+    "quoteAmount": null,
+    "channel": "WEB",
+    "createdAt": "2026-09-28T10:00:00.000Z",
+    "updatedAt": "2026-10-01T10:00:00.000Z"
+  },
+  {
+    "id": "int_2",
+    "userId": "usr_demo",
+    "productId": "prd_008",
+    "status": "SHOWROOM_READY",
+    "note": "",
+    "consultationAt": null,
+    "branchId": "brn_main",
+    "quoteAmount": 468500,
+    "channel": "WHATSAPP",
+    "createdAt": "2026-09-20T10:00:00.000Z",
+    "updatedAt": "2026-10-03T10:00:00.000Z"
+  },
+  {
+    "id": "int_3",
+    "userId": "usr_demo",
+    "productId": "prd_002",
+    "status": "QUOTE_SHARED",
+    "note": "Size 14",
+    "consultationAt": null,
+    "branchId": null,
+    "quoteAmount": 68900,
+    "channel": "WEB",
+    "createdAt": "2026-10-02T10:00:00.000Z",
+    "updatedAt": "2026-10-04T10:00:00.000Z"
+  },
+  {
+    "id": "int_4",
+    "userId": "usr_demo",
+    "productId": "prd_015",
+    "status": "INQUIRY_LOGGED",
+    "note": "Size 2.6",
+    "consultationAt": null,
+    "branchId": null,
+    "quoteAmount": null,
+    "channel": "WEB",
+    "createdAt": "2026-10-05T10:00:00.000Z",
+    "updatedAt": "2026-10-05T10:00:00.000Z"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "id": "cat_rings",
+    "name": "Rings",
+    "slug": "rings",
+    "imageUrl": "https://images.unsplash.com/photo-1713950920412-97799efdf870?auto=format&fit=crop&w=600&q=80",
+    "order": 1,
+    "active": true
+  },
+  {
+    "id": "cat_mangalsutra",
+    "name": "Mangalsutra",
+    "slug": "mangalsutra",
+    "imageUrl": "https://images.unsplash.com/photo-1601121141461-920cb1993441?auto=format&fit=crop&w=600&q=80",
+    "order": 2,
+    "active": true
+  },
+  {
+    "id": "cat_chains",
+    "name": "Chains",
+    "slug": "chains",
+    "imageUrl": "https://images.unsplash.com/photo-1640183297213-863406155597?auto=format&fit=crop&w=600&q=80",
+    "order": 3,
+    "active": true
+  },
+  {
+    "id": "cat_necklaces",
+    "name": "Necklaces",
+    "slug": "necklaces",
+    "imageUrl": "https://images.unsplash.com/photo-1758995115857-2de1eb6283d0?auto=format&fit=crop&w=600&q=80",
+    "order": 4,
+    "active": true
+  },
+  {
+    "id": "cat_earrings",
+    "name": "Earrings",
+    "slug": "earrings",
+    "imageUrl": "https://images.unsplash.com/photo-1589095053205-8fc842336f4a?auto=format&fit=crop&w=600&q=80",
+    "order": 5,
+    "active": true
+  },
+  {
+    "id": "cat_bangles",
+    "name": "Bangles",
+    "slug": "bangles",
+    "imageUrl": "https://images.unsplash.com/photo-1758995116383-f51775896add?auto=format&fit=crop&w=600&q=80",
+    "order": 6,
+    "active": true
+  },
+  {
+    "id": "cat_bracelets",
+    "name": "Bracelets",
+    "slug": "bracelets",
+    "imageUrl": "https://images.unsplash.com/photo-1679156271456-d6068c543ee7?auto=format&fit=crop&w=600&q=80",
+    "order": 7,
+    "active": true
+  },
+  {
+    "id": "cat_pendants",
+    "name": "Pendants",
+    "slug": "pendants",
+    "imageUrl": "https://images.unsplash.com/photo-1705326454924-f6777522b030?auto=format&fit=crop&w=600&q=80",
+    "order": 8,
+    "active": true
+  },
+  {
+    "id": "cat_tika",
+    "name": "Maang Tika",
+    "slug": "tika",
+    "imageUrl": "https://images.unsplash.com/photo-1570212773364-e30cd076539e?auto=format&fit=crop&w=600&q=80",
+    "order": 9,
+    "active": true
+  },
+  {
+    "id": "cat_jhumar",
+    "name": "Jhumar",
+    "slug": "jhumar",
+    "imageUrl": "https://images.unsplash.com/photo-1653227907911-6e1afb4cbea1?auto=format&fit=crop&w=600&q=80",
+    "order": 10,
+    "active": true
+  },
+  {
+    "id": "cat_bajuband",
+    "name": "Baju Band",
+    "slug": "baju-band",
+    "imageUrl": "https://images.unsplash.com/photo-1611598935678-c88dca238fce?auto=format&fit=crop&w=600&q=80",
+    "order": 11,
+    "active": true
+  },
+  {
+    "id": "cat_diamonds",
+    "name": "Diamonds",
+    "slug": "diamonds",
+    "imageUrl": "https://images.unsplash.com/photo-1605100804763-247f67b3557e?auto=format&fit=crop&w=600&q=80",
+    "order": 12,
+    "active": true,
+    "virtual": true,
+    "filter": {
+      "metal": "DIAMOND"
+    }
+  },
+  {
+    "id": "cat_silver",
+    "name": "Silver",
+    "slug": "silver",
+    "imageUrl": "https://images.unsplash.com/photo-1786052348368-9c23c72205f9?auto=format&fit=crop&w=600&q=80",
+    "order": 13,
+    "active": true,
+    "virtual": true,
+    "filter": {
+      "metal": "SILVER"
+    }
+  },
+  {
+    "id": "cat_coins",
+    "name": "Coins & Bars",
+    "slug": "coins",
+    "imageUrl": "https://images.unsplash.com/photo-1643656350988-a39ad266a178?auto=format&fit=crop&w=600&q=80",
+    "order": 14,
+    "active": true
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "id": "settings_main",
+    "brand": {
+      "name": "Kanak Jewellers",
+      "shortName": "Kanak",
+      "tagline": "Tradition that defines elegance",
+      "logoUrl": "https://dummyimage.com/240x80/4a1942/f7efea.png&text=Kanak+Jewellers",
+      "faviconUrl": "https://dummyimage.com/64x64/4a1942/f7efea.png&text=K",
+      "since": 1986,
+      "description": "Kanak Jewellers is a family-run jewellery house offering BIS hallmarked gold, certified diamonds and silver, along with digital gold, monthly gold savings and rate-lock booking, all from one place."
+    },
+    "theme": {
+      "primary": "#4A1942",
+      "primaryDark": "#2E0F2A",
+      "primaryLight": "#6B2D5F",
+      "accent": "#C9A227",
+      "accentLight": "#E6C86B",
+      "cream": "#F7EFEA",
+      "creamDark": "#EADFD6",
+      "background": "#FFF8F5",
+      "surface": "#FFFFFF",
+      "text": "#1F1A1E",
+      "textMuted": "#6F6670",
+      "success": "#2E7D32",
+      "danger": "#C62828",
+      "fontHeading": "Playfair Display",
+      "fontBody": "DM Sans"
+    },
+    "contact": {
+      "whatsappNumber": "919999999999",
+      "whatsappDefaultText": "Hello Kanak Jewellers, I would like some assistance.",
+      "phone": "+91 99999 99999",
+      "tollFree": "1800-200-0000",
+      "email": "care@kanakjewellers.demo",
+      "supportHours": "10:30 AM - 8:30 PM, all days",
+      "address": "12, Jewellery Boulevard, Near Clock Tower",
+      "city": "Jodhpur",
+      "state": "Rajasthan",
+      "pincode": "342001",
+      "mapUrl": "https://maps.google.com/?q=Clock+Tower+Jodhpur",
+      "instagram": "https://instagram.com/kanakjewellers",
+      "facebook": "https://facebook.com/kanakjewellers",
+      "youtube": ""
+    },
+    "rates": {
+      "base": { "gold24k": 14850, "silver999": 192 },
+      "purityFactors": { "gold24k": 1, "gold22k": 0.916, "gold18k": 0.75, "gold14k": 0.585 },
+      "sellSpreadPct": 2,
+      "jitterPct": 0.12,
+      "maxDriftPct": 1.5,
+      "manualOverride": false,
+      "source": "Simulated bullion feed",
+      "publishTimes": ["11:30 AM", "4:30 PM"]
+    },
+    "digiGold": {
+      "title": "Digi Gold",
+      "subtitle": "24K 99.9% pure digital gold, stored in insured vaults",
+      "minAmount": 100,
+      "minGrams": 0.001,
+      "gstPct": 3,
+      "sellSpreadPct": 2,
+      "vaultPartner": "Secure Vault Partner (demo)",
+      "trustee": "Independent Trustee (demo)",
+      "buyPresets": [100, 500, 1000, 2000, 5000, 10000],
+      "lease": { "enabled": true, "minGrams": 0.5, "tenureMonths": [3, 6, 12], "yieldPctPerYear": 2.5 },
+      "redeem": { "coins": [0.5, 1, 2, 5, 10], "jewelleryVoucher": true, "makingChargeWaiverPct": 100 },
+      "benefits": [
+        { "en": "Your gold is stored securely in insured vaults.", "hi": "आपका सोना बीमाकृत तिजोरियों में सुरक्षित है।" },
+        { "en": "Buy, sell or redeem anytime, anywhere.", "hi": "कहीं भी, कभी भी खरीदें, बेचें या रिडीम करें।" },
+        { "en": "Get real-time gold price updates.", "hi": "सोने की रीयल टाइम कीमतें देखें।" },
+        { "en": "Start investing with just ₹100.", "hi": "सिर्फ ₹100 से निवेश शुरू करें।" }
+      ]
+    },
+    "ema": {
+      "title": "Swarn Sanchay",
+      "titleHi": "स्वर्ण संचय",
+      "subtitle": "Invest monthly in gold with flexible plans. Pay 11 instalments, get the 12th on us.",
+      "minMonthly": 5000,
+      "maxMonthly": 30000,
+      "step": 500,
+      "presets": [5000, 10000, 15000, 20000, 25000, 30000],
+      "tenureMonths": 11,
+      "bonusMonths": 1,
+      "makingChargeWaiverPct": 14,
+      "autopayEnabled": true,
+      "autopayMethods": ["UPI Autopay", "Debit card mandate"],
+      "example": "Enrol in a ₹10,000 plan: pay ₹1,10,000 over 11 months and redeem jewellery worth ₹1,20,000 with value-addition exemption up to 14%.",
+      "terms": [
+        "Instalments must be paid every month on or before the due date.",
+        "Gold is accumulated at the published 22K rate on the day of each payment.",
+        "On maturity, the accumulated amount can be redeemed against jewellery at any Kanak showroom.",
+        "Bonus month is credited only on completion of all instalments.",
+        "No cash refund; early closure is settled against jewellery purchase."
+      ]
+    },
+    "bookGold": {
+      "title": "Book My Gold",
+      "subtitle": "Freeze today's gold rate for 30 days with a refundable 10% advance.",
+      "advancePct": 10,
+      "validityDays": 30,
+      "minGrams": 1,
+      "presets": [5, 10, 20, 50],
+      "purposes": ["Wedding Jewellery", "Festive Purchase", "Investment Coin", "Gifting", "Other"],
+      "purities": ["gold22k", "gold24k"]
+    },
+    "advanceGold": {
+      "title": "Advance Gold",
+      "subtitle": "Deposit funds now, convert to gold units at the live rate, redeem on your next purchase.",
+      "minAmount": 5000,
+      "presets": [10000, 25000, 50000, 100000],
+      "validityDays": 180,
+      "purity": "gold22k",
+      "billingDiscountPct": 0
+    },
+    "checkout": {
+      "gstPct": 3,
+      "freeShippingAbove": 5000,
+      "shippingCharge": 199,
+      "exchangeDays": 15,
+      "deliveryOptions": [
+        { "code": "COURIER", "label": "Insured doorstep delivery", "eta": "3-5 working days" },
+        { "code": "PICKUP", "label": "Showroom pickup", "eta": "Same day" }
+      ],
+      "paymentMethods": [
+        { "code": "UPI", "label": "UPI (GPay, PhonePe, Paytm)", "note": "Zero gateway fees" },
+        { "code": "CARD", "label": "Credit / Debit card", "note": "Visa, Mastercard, RuPay, Amex" },
+        { "code": "NETBANKING", "label": "Net banking", "note": "All major Indian banks" },
+        { "code": "GOLD_WALLET", "label": "Digi Gold wallet", "note": "Use your 24K gold balance" }
+      ]
+    },
+    "coupons": [
+      { "code": "KANAK10", "pct": 10, "maxDiscount": 5000, "firstOrderOnly": true, "description": "10% off on your first order" },
+      { "code": "FESTIVE15", "pct": 15, "maxDiscount": 10000, "firstOrderOnly": false, "description": "15% off on selected festive pieces" }
+    ],
+    "giftCards": { "presets": [1000, 2000, 5000, 10000], "validityDays": 365, "minAmount": 500, "maxAmount": 100000 },
+    "trustBadges": [
+      { "icon": "certificate", "title": "BIS Hallmarked", "text": "Every piece carries a 6-digit HUID" },
+      { "icon": "truck", "title": "Insured Delivery", "text": "Tamper-evident box, OTP handover" },
+      { "icon": "refresh", "title": "15-day Exchange", "text": "Easy exchange at any showroom" },
+      { "icon": "lock", "title": "Secure Payments", "text": "256-bit encrypted checkout" }
+    ],
+    "announcement": "Free insured shipping on orders above ₹5,000 • Use code KANAK10 on your first order",
+    "updatedAt": "2026-10-01T00:00:00.000Z"
+  }
+]

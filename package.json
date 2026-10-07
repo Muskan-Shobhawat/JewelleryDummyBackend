@@ -1,0 +1,28 @@
+{
+  "name": "jewellery-dummy-backend",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node --test test/",
+    "dev": "node --watch src/index.js",
+    "start": "node src/index.js",
+    "reset": "node src/store/reset.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "UNLICENSED",
+  "description": "Backend API for Kanak Jewellers demo website",
+  "type": "module",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "dotenv": "^18.0.6",
+    "express": "^5.2.1",
+    "jsonwebtoken": "^9.0.3",
+    "morgan": "^1.12.1",
+    "zod": "^4.6.5"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "private": "true"
+}

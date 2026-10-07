@@ -1,0 +1,16 @@
+[
+  {
+    "id": "gft_demo",
+    "code": "KJGC-7H2K-9P4M-Q1",
+    "amount": 5000,
+    "balance": 5000,
+    "purchasedBy": "usr_demo",
+    "recipientName": "Neha Sharma",
+    "recipientMobile": "9876543210",
+    "message": "Happy birthday!",
+    "expiresAt": "2027-08-20T09:00:00.000Z",
+    "status": "ACTIVE",
+    "createdAt": "2026-08-20T09:00:00.000Z",
+    "updatedAt": "2026-08-20T09:00:00.000Z"
+  }
+]

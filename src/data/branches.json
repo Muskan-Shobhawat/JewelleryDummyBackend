@@ -1,0 +1,5 @@
+[
+  { "id": "brn_main", "code": "JDH-01", "name": "Kanak Jewellers, Clock Tower", "address": "12, Jewellery Boulevard, Near Clock Tower", "city": "Jodhpur", "state": "Rajasthan", "pincode": "342001", "phone": "+91 99999 99999", "hours": "10:30 AM - 8:30 PM", "mapUrl": "https://maps.google.com/?q=Clock+Tower+Jodhpur", "isFlagship": true, "active": true },
+  { "id": "brn_2", "code": "JDH-02", "name": "Kanak Jewellers, Sardarpura", "address": "C-Road, Sardarpura", "city": "Jodhpur", "state": "Rajasthan", "pincode": "342003", "phone": "+91 99999 99998", "hours": "10:30 AM - 8:30 PM", "mapUrl": "https://maps.google.com/?q=Sardarpura+Jodhpur", "isFlagship": false, "active": true },
+  { "id": "brn_3", "code": "JPR-01", "name": "Kanak Jewellers, Jaipur", "address": "MI Road, Near Panch Batti", "city": "Jaipur", "state": "Rajasthan", "pincode": "302001", "phone": "+91 99999 99997", "hours": "11:00 AM - 9:00 PM", "mapUrl": "https://maps.google.com/?q=MI+Road+Jaipur", "isFlagship": false, "active": true }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "id": "col_bridal",
+    "name": "Bridal Edit",
+    "slug": "bridal-edit",
+    "tagline": "Made for your moment",
+    "imageUrl": "https://images.unsplash.com/photo-1570212773364-e30cd076539e?auto=format&fit=crop&w=900&q=80",
+    "description": "Kundan, polki and temple sets crafted for the big day.",
+    "order": 1,
+    "active": true
+  },
+  {
+    "id": "col_everyday",
+    "name": "Everyday Gold",
+    "slug": "everyday-gold",
+    "tagline": "Little things, big shine",
+    "imageUrl": "https://images.unsplash.com/photo-1705326454924-f6777522b030?auto=format&fit=crop&w=900&q=80",
+    "description": "Light-weight pieces for daily wear.",
+    "order": 2,
+    "active": true
+  },
+  {
+    "id": "col_diamond",
+    "name": "Diamond Edit",
+    "slug": "diamond-edit",
+    "tagline": "Shine without limits",
+    "imageUrl": "https://images.unsplash.com/photo-1721103418312-b0057a8c31c2?auto=format&fit=crop&w=900&q=80",
+    "description": "IGI certified solitaires and studded designs.",
+    "order": 3,
+    "active": true
+  },
+  {
+    "id": "col_temple",
+    "name": "Temple Heritage",
+    "slug": "temple-heritage",
+    "tagline": "Crafted for you",
+    "imageUrl": "https://images.unsplash.com/photo-1601121141461-9d6647bca1ed?auto=format&fit=crop&w=900&q=80",
+    "description": "Antique finish, Rajasthani and South Indian temple work.",
+    "order": 4,
+    "active": true
+  },
+  {
+    "id": "col_statement",
+    "name": "Statement Pieces",
+    "slug": "statement-pieces",
+    "tagline": "Timeless elegance",
+    "imageUrl": "https://images.unsplash.com/photo-1600862754152-80a263dd564f?auto=format&fit=crop&w=900&q=80",
+    "description": "Chokers, layered chains and bold earrings.",
+    "order": 5,
+    "active": true
+  }
+]

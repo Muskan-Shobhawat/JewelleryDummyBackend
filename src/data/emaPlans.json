@@ -1,0 +1,139 @@
+[
+  {
+    "id": "ema_demo",
+    "userId": "usr_demo",
+    "planNo": "EMA-KJ-8804",
+    "name": "Swarn Sanchay",
+    "monthlyAmount": 10000,
+    "tenureMonths": 11,
+    "bonusMonths": 1,
+    "startDate": "2026-02-05",
+    "maturityDate": "2027-01-05",
+    "installments": [
+      {
+        "n": 1,
+        "dueDate": "2026-02-05",
+        "amount": 10000,
+        "status": "PAID",
+        "paidAt": "2026-02-05T10:12:00.000Z",
+        "rate": 13265,
+        "grams": 0.754,
+        "method": "UPI",
+        "txnId": "txn_005"
+      },
+      {
+        "n": 2,
+        "dueDate": "2026-03-05",
+        "amount": 10000,
+        "status": "PAID",
+        "paidAt": "2026-03-05T10:12:00.000Z",
+        "rate": 13209,
+        "grams": 0.757,
+        "method": "UPI",
+        "txnId": "txn_006"
+      },
+      {
+        "n": 3,
+        "dueDate": "2026-04-05",
+        "amount": 10000,
+        "status": "PAID",
+        "paidAt": "2026-04-05T10:12:00.000Z",
+        "rate": 13315,
+        "grams": 0.751,
+        "method": "AUTO_DEBIT",
+        "txnId": "txn_007"
+      },
+      {
+        "n": 4,
+        "dueDate": "2026-05-05",
+        "amount": 10000,
+        "status": "PAID",
+        "paidAt": "2026-05-05T10:12:00.000Z",
+        "rate": 13125,
+        "grams": 0.762,
+        "method": "UPI",
+        "txnId": "txn_008"
+      },
+      {
+        "n": 5,
+        "dueDate": "2026-06-05",
+        "amount": 10000,
+        "status": "PAID",
+        "paidAt": "2026-06-05T10:12:00.000Z",
+        "rate": 13235,
+        "grams": 0.756,
+        "method": "UPI",
+        "txnId": "txn_009"
+      },
+      {
+        "n": 6,
+        "dueDate": "2026-07-05",
+        "amount": 10000,
+        "status": "PAID",
+        "paidAt": "2026-07-05T10:12:00.000Z",
+        "rate": 13477,
+        "grams": 0.742,
+        "method": "AUTO_DEBIT",
+        "txnId": "txn_010"
+      },
+      {
+        "n": 7,
+        "dueDate": "2026-08-05",
+        "amount": 10000,
+        "status": "PAID",
+        "paidAt": "2026-08-05T10:12:00.000Z",
+        "rate": 13159,
+        "grams": 0.76,
+        "method": "UPI",
+        "txnId": "txn_011"
+      },
+      {
+        "n": 8,
+        "dueDate": "2026-09-05",
+        "amount": 10000,
+        "status": "PAID",
+        "paidAt": "2026-09-05T10:12:00.000Z",
+        "rate": 13486,
+        "grams": 0.742,
+        "method": "UPI",
+        "txnId": "txn_012"
+      },
+      {
+        "n": 9,
+        "dueDate": "2026-10-05",
+        "amount": 10000,
+        "status": "DUE"
+      },
+      {
+        "n": 10,
+        "dueDate": "2026-11-05",
+        "amount": 10000,
+        "status": "UPCOMING"
+      },
+      {
+        "n": 11,
+        "dueDate": "2026-12-05",
+        "amount": 10000,
+        "status": "UPCOMING"
+      },
+      {
+        "n": 12,
+        "dueDate": "2027-01-05",
+        "amount": 10000,
+        "status": "BONUS"
+      }
+    ],
+    "paidCount": 8,
+    "totalPaid": 80000,
+    "bonusAmount": 10000,
+    "goldAccumulatedGrams": 6.024,
+    "autopay": {
+      "enabled": true,
+      "method": "UPI Autopay",
+      "vpa": "priya@okhdfc"
+    },
+    "status": "ACTIVE",
+    "createdAt": "2026-02-05T10:00:00.000Z",
+    "updatedAt": "2026-09-05T10:12:00.000Z"
+  }
+]

@@ -1,0 +1,1380 @@
+[
+  {
+    "id": "prd_001",
+    "sku": "KJ-1001",
+    "slug": "aurelia-gold-ring",
+    "pricingMode": "RATE_LINKED",
+    "metal": "GOLD",
+    "purity": "18K",
+    "stoneWeight": 0,
+    "stoneCharge": 0,
+    "diamondCarat": 0,
+    "makingCharge": {
+      "type": "PCT",
+      "value": 14
+    },
+    "fixedPrice": null,
+    "discountPct": 0,
+    "tags": [
+      "new",
+      "trending"
+    ],
+    "sizes": [
+      "10",
+      "12",
+      "14",
+      "16"
+    ],
+    "collections": [
+      "everyday-gold"
+    ],
+    "certification": "BIS Hallmark 916 (HUID)",
+    "highlights": [
+      "18K yellow gold",
+      "Minimal band",
+      "Daily wear"
+    ],
+    "inStock": true,
+    "stockQty": 5,
+    "active": true,
+    "featured": true,
+    "order": 1,
+    "views": 466,
+    "whatsappEnquiry": true,
+    "description": "Aurelia Gold Ring handcrafted by Kanak artisans. 18K hallmarked gold, available for showroom viewing and insured delivery.",
+    "name": "Aurelia Gold Ring",
+    "category": "rings",
+    "grossWeight": 3.2,
+    "netWeight": 3,
+    "images": [
+      "https://images.unsplash.com/photo-1713950920412-97799efdf870?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1605100804763-247f67b3557e?auto=format&fit=crop&w=800&q=80"
+    ]
+  },
+  {
+    "id": "prd_002",
+    "sku": "KJ-1002",
+    "slug": "luna-solitaire-ring",
+    "pricingMode": "RATE_LINKED",
+    "metal": "DIAMOND",
+    "purity": "18K",
+    "stoneWeight": 0,
+    "stoneCharge": 28000,
+    "diamondCarat": 0.3,
+    "makingCharge": {
+      "type": "PCT",
+      "value": 16
+    },
+    "fixedPrice": null,
+    "discountPct": 0,
+    "tags": [
+      "bestseller"
+    ],
+    "sizes": [
+      "10",
+      "12",
+      "14",
+      "16",
+      "18"
+    ],
+    "collections": [
+      "diamond-edit"
+    ],
+    "certification": "IGI certified, BIS Hallmark 750",
+    "highlights": [
+      "0.30 ct IGI solitaire",
+      "VS clarity, G colour",
+      "18K white gold"
+    ],
+    "inStock": true,
+    "stockQty": 5,
+    "active": true,
+    "featured": true,
+    "order": 2,
+    "views": 308,
+    "whatsappEnquiry": true,
+    "description": "Luna Solitaire Ring handcrafted by Kanak artisans. 18K hallmarked gold, available for showroom viewing and insured delivery.",
+    "name": "Luna Solitaire Ring",
+    "category": "rings",
+    "grossWeight": 2.9,
+    "netWeight": 2.6,
+    "images": [
+      "https://images.unsplash.com/photo-1605100804763-247f67b3557e?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1713950920412-97799efdf870?auto=format&fit=crop&w=800&q=80"
+    ]
+  },
+  {
+    "id": "prd_003",
+    "sku": "KJ-1003",
+    "slug": "rajwada-kundan-ring",
+    "pricingMode": "RATE_LINKED",
+    "metal": "GOLD",
+    "purity": "22K",
+    "stoneWeight": 0.8,
+    "stoneCharge": 4500,
+    "diamondCarat": 0,
+    "makingCharge": {
+      "type": "PCT",
+      "value": 18
+    },
+    "fixedPrice": null,
+    "discountPct": 0,
+    "tags": [
+      "trending"
+    ],
+    "sizes": [
+      "12",
+      "14",
+      "16"
+    ],
+    "collections": [
+      "bridal-edit",
+      "temple-heritage"
+    ],
+    "certification": "BIS Hallmark 916 (HUID)",
+    "highlights": [
+      "Kundan setting",
+      "Antique finish"
+    ],
+    "inStock": true,
+    "stockQty": 5,
+    "active": true,
+    "featured": false,
+    "order": 3,
+    "views": 884,
+    "whatsappEnquiry": true,
+    "description": "Rajwada Kundan Ring handcrafted by Kanak artisans. 22K hallmarked gold, available for showroom viewing and insured delivery.",
+    "name": "Rajwada Kundan Ring",
+    "category": "rings",
+    "grossWeight": 6.4,
+    "netWeight": 5.6,
+    "images": [
+      "https://images.unsplash.com/photo-1611955167811-4711904bb9f8?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1626784214536-d859187e0bd0?auto=format&fit=crop&w=800&q=80"
+    ]
+  },
+  {
+    "id": "prd_004",
+    "sku": "KJ-1004",
+    "slug": "classic-band-ring",
+    "pricingMode": "RATE_LINKED",
+    "metal": "GOLD",
+    "purity": "22K",
+    "stoneWeight": 0,
+    "stoneCharge": 0,
+    "diamondCarat": 0,
+    "makingCharge": {
+      "type": "PER_GRAM",
+      "value": 650
+    },
+    "fixedPrice": null,
+    "discountPct": 0,
+    "tags": [],
+    "sizes": [
+      "8",
+      "10",
+      "12",
+      "14",
+      "16",
+      "18",
+      "20"
+    ],
+    "collections": [
+      "everyday-gold"
+    ],
+    "certification": "BIS Hallmark 916 (HUID)",
+    "highlights": [
+      "Plain 22K band",
+      "Unisex"
+    ],
+    "inStock": true,
+    "stockQty": 5,
+    "active": true,
+    "featured": false,
+    "order": 4,
+    "views": 606,
+    "whatsappEnquiry": true,
+    "description": "Classic Band Ring handcrafted by Kanak artisans. 22K hallmarked gold, available for showroom viewing and insured delivery.",
+    "name": "Classic Band Ring",
+    "category": "rings",
+    "grossWeight": 4.1,
+    "netWeight": 4.1,
+    "images": [
+      "https://images.unsplash.com/photo-1628926379972-9843ad139a8c?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1567523977592-7959bc5df51e?auto=format&fit=crop&w=800&q=80"
+    ]
+  },
+  {
+    "id": "prd_005",
+    "sku": "KJ-1005",
+    "slug": "kaia-layered-chain",
+    "pricingMode": "RATE_LINKED",
+    "metal": "GOLD",
+    "purity": "22K",
+    "stoneWeight": 0,
+    "stoneCharge": 0,
+    "diamondCarat": 0,
+    "makingCharge": {
+      "type": "PCT",
+      "value": 11
+    },
+    "fixedPrice": null,
+    "discountPct": 0,
+    "tags": [
+      "trending",
+      "new"
+    ],
+    "sizes": [],
+    "collections": [
+      "statement-pieces",
+      "everyday-gold"
+    ],
+    "certification": "BIS Hallmark 916 (HUID)",
+    "highlights": [
+      "Two-layer design",
+      "18 inch"
+    ],
+    "inStock": true,
+    "stockQty": 5,
+    "active": true,
+    "featured": true,
+    "order": 5,
+    "views": 187,
+    "whatsappEnquiry": true,
+    "description": "Kaia Layered Chain handcrafted by Kanak artisans. 22K hallmarked gold, available for showroom viewing and insured delivery.",
+    "name": "Kaia Layered Chain",
+    "category": "chains",
+    "grossWeight": 8.2,
+    "netWeight": 8.2,
+    "images": [
+      "https://images.unsplash.com/photo-1758995115518-26f90aa61b97?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1640183297213-863406155597?auto=format&fit=crop&w=800&q=80"
+    ]
+  },
+  {
+    "id": "prd_006",
+    "sku": "KJ-1006",
+    "slug": "rope-chain-20-inch",
+    "pricingMode": "RATE_LINKED",
+    "metal": "GOLD",
+    "purity": "22K",
+    "stoneWeight": 0,
+    "stoneCharge": 0,
+    "diamondCarat": 0,
+    "makingCharge": {
+      "type": "PER_GRAM",
+      "value": 550
+    },
+    "fixedPrice": null,
+    "discountPct": 0,
+    "tags": [],
+    "sizes": [],
+    "collections": [
+      "everyday-gold"
+    ],
+    "certification": "BIS Hallmark 916 (HUID)",
+    "highlights": [
+      "Machine made rope",
+      "Lobster clasp"
+    ],
+    "inStock": true,
+    "stockQty": 5,
+    "active": true,
+    "featured": false,
+    "order": 6,
+    "views": 230,
+    "whatsappEnquiry": true,
+    "description": "Rope Chain 20 inch handcrafted by Kanak artisans. 22K hallmarked gold, available for showroom viewing and insured delivery.",
+    "name": "Rope Chain 20 inch",
+    "category": "chains",
+    "grossWeight": 12.5,
+    "netWeight": 12.5,
+    "images": [
+      "https://images.unsplash.com/photo-1640183297213-863406155597?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1611107683227-e9060eccd846?auto=format&fit=crop&w=800&q=80"
+    ]
+  },
+  {
+    "id": "prd_007",
+    "sku": "KJ-1007",
+    "slug": "viviana-emerald-choker",
+    "pricingMode": "RATE_LINKED",
+    "metal": "GOLD",
+    "purity": "22K",
+    "stoneWeight": 2.6,
+    "stoneCharge": 18500,
+    "diamondCarat": 0,
+    "makingCharge": {
+      "type": "PCT",
+      "value": 20
+    },
+    "fixedPrice": null,
+    "discountPct": 0,
+    "tags": [
+      "trending",
+      "bestseller"
+    ],
+    "sizes": [],
+    "collections": [
+      "bridal-edit",
+      "statement-pieces"
+    ],
+    "certification": "BIS Hallmark 916 (HUID)",
+    "highlights": [
+      "Natural emeralds",
+      "Adjustable dori"
+    ],
+    "inStock": true,
+    "stockQty": 5,
+    "active": true,
+    "featured": true,
+    "order": 7,
+    "views": 649,
+    "whatsappEnquiry": true,
+    "description": "Viviana Emerald Choker handcrafted by Kanak artisans. 22K hallmarked gold, available for showroom viewing and insured delivery.",
+    "name": "Viviana Emerald Choker",
+    "category": "necklaces",
+    "grossWeight": 24.6,
+    "netWeight": 22,
+    "images": [
+      "https://images.unsplash.com/photo-1600862754152-80a263dd564f?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1601121141499-17ae80afc03a?auto=format&fit=crop&w=800&q=80"
+    ]
+  },
+  {
+    "id": "prd_008",
+    "sku": "KJ-1008",
+    "slug": "heritage-temple-choker",
+    "pricingMode": "RATE_LINKED",
+    "metal": "GOLD",
+    "purity": "22K",
+    "stoneWeight": 2.3,
+    "stoneCharge": 9000,
+    "diamondCarat": 0,
+    "makingCharge": {
+      "type": "PCT",
+      "value": 22
+    },
+    "fixedPrice": null,
+    "discountPct": 0,
+    "tags": [
+      "bestseller"
+    ],
+    "sizes": [],
+    "collections": [
+      "temple-heritage",
+      "bridal-edit"
+    ],
+    "certification": "BIS Hallmark 916 (HUID)",
+    "highlights": [
+      "Lakshmi motif",
+      "Antique gold finish"
+    ],
+    "inStock": true,
+    "stockQty": 5,
+    "active": true,
+    "featured": true,
+    "order": 8,
+    "views": 459,
+    "whatsappEnquiry": true,
+    "description": "Heritage Temple Choker handcrafted by Kanak artisans. 22K hallmarked gold, available for showroom viewing and insured delivery.",
+    "name": "Heritage Temple Choker",
+    "category": "necklaces",
+    "grossWeight": 31.8,
+    "netWeight": 29.5,
+    "images": [
+      "https://images.unsplash.com/photo-1601121141461-9d6647bca1ed?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1601121141418-c1caa10a2a0b?auto=format&fit=crop&w=800&q=80"
+    ]
+  },
+  {
+    "id": "prd_009",
+    "sku": "KJ-1009",
+    "slug": "royal-rajputana-kundan-bridal-set",
+    "pricingMode": "ON_CALL",
+    "metal": "GOLD",
+    "purity": "22K",
+    "stoneWeight": 10,
+    "stoneCharge": 0,
+    "diamondCarat": 0,
+    "makingCharge": {
+      "type": "PCT",
+      "value": 25
+    },
+    "fixedPrice": null,
+    "discountPct": 0,
+    "tags": [
+      "bridal"
+    ],
+    "sizes": [],
+    "collections": [
+      "bridal-edit"
+    ],
+    "certification": "BIS Hallmark 916 (HUID)",
+    "highlights": [
+      "Necklace, earrings and tika",
+      "Uncut polki",
+      "Made to order"
+    ],
+    "inStock": true,
+    "stockQty": 5,
+    "active": true,
+    "featured": true,
+    "order": 9,
+    "views": 108,
+    "whatsappEnquiry": true,
+    "description": "Royal Rajputana Kundan Bridal Set handcrafted by Kanak artisans. 22K hallmarked gold, available for showroom viewing and insured delivery.",
+    "name": "Royal Rajputana Kundan Bridal Set",
+    "category": "necklaces",
+    "grossWeight": 78,
+    "netWeight": 68,
+    "images": [
+      "https://images.unsplash.com/photo-1570212773364-e30cd076539e?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1722410180687-b05b50922362?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1679006831648-7c9ea12e5807?auto=format&fit=crop&w=800&q=80"
+    ]
+  },
+  {
+    "id": "prd_010",
+    "sku": "KJ-1010",
+    "slug": "amara-diamond-pendant",
+    "pricingMode": "RATE_LINKED",
+    "metal": "DIAMOND",
+    "purity": "18K",
+    "stoneWeight": 0,
+    "stoneCharge": 14500,
+    "diamondCarat": 0.18,
+    "makingCharge": {
+      "type": "PCT",
+      "value": 15
+    },
+    "fixedPrice": null,
+    "discountPct": 0,
+    "tags": [
+      "bestseller"
+    ],
+    "sizes": [],
+    "collections": [
+      "diamond-edit",
+      "everyday-gold"
+    ],
+    "certification": "IGI certified, BIS Hallmark 750",
+    "highlights": [
+      "Cluster setting",
+      "Chain included"
+    ],
+    "inStock": true,
+    "stockQty": 5,
+    "active": true,
+    "featured": true,
+    "order": 10,
+    "views": 103,
+    "whatsappEnquiry": true,
+    "description": "Amara Diamond Pendant handcrafted by Kanak artisans. 18K hallmarked gold, available for showroom viewing and insured delivery.",
+    "name": "Amara Diamond Pendant",
+    "category": "pendants",
+    "grossWeight": 2.4,
+    "netWeight": 2.1,
+    "images": [
+      "https://images.unsplash.com/photo-1705326454924-f6777522b030?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1721103418312-b0057a8c31c2?auto=format&fit=crop&w=800&q=80"
+    ]
+  },
+  {
+    "id": "prd_011",
+    "sku": "KJ-1011",
+    "slug": "om-pendant",
+    "pricingMode": "RATE_LINKED",
+    "metal": "GOLD",
+    "purity": "22K",
+    "stoneWeight": 0,
+    "stoneCharge": 0,
+    "diamondCarat": 0,
+    "makingCharge": {
+      "type": "PER_GRAM",
+      "value": 700
+    },
+    "fixedPrice": null,
+    "discountPct": 0,
+    "tags": [],
+    "sizes": [],
+    "collections": [
+      "everyday-gold"
+    ],
+    "certification": "BIS Hallmark 916 (HUID)",
+    "highlights": [
+      "22K",
+      "Without chain"
+    ],
+    "inStock": true,
+    "stockQty": 5,
+    "active": true,
+    "featured": false,
+    "order": 11,
+    "views": 865,
+    "whatsappEnquiry": true,
+    "description": "Om Pendant handcrafted by Kanak artisans. 22K hallmarked gold, available for showroom viewing and insured delivery.",
+    "name": "Om Pendant",
+    "category": "pendants",
+    "grossWeight": 3.6,
+    "netWeight": 3.6,
+    "images": [
+      "https://images.unsplash.com/photo-1601121141461-920cb1993441?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1569397288884-4d43d6738fbd?auto=format&fit=crop&w=800&q=80"
+    ]
+  },
+  {
+    "id": "prd_012",
+    "sku": "KJ-1012",
+    "slug": "jhumka-earrings-classic",
+    "pricingMode": "RATE_LINKED",
+    "metal": "GOLD",
+    "purity": "22K",
+    "stoneWeight": 0.6,
+    "stoneCharge": 1800,
+    "diamondCarat": 0,
+    "makingCharge": {
+      "type": "PCT",
+      "value": 16
+    },
+    "fixedPrice": null,
+    "discountPct": 0,
+    "tags": [
+      "bestseller"
+    ],
+    "sizes": [],
+    "collections": [
+      "temple-heritage"
+    ],
+    "certification": "BIS Hallmark 916 (HUID)",
+    "highlights": [
+      "Bell jhumka",
+      "Pearl drops"
+    ],
+    "inStock": true,
+    "stockQty": 5,
+    "active": true,
+    "featured": true,
+    "order": 12,
+    "views": 752,
+    "whatsappEnquiry": true,
+    "description": "Jhumka Earrings Classic handcrafted by Kanak artisans. 22K hallmarked gold, available for showroom viewing and insured delivery.",
+    "name": "Jhumka Earrings Classic",
+    "category": "earrings",
+    "grossWeight": 9.8,
+    "netWeight": 9.2,
+    "images": [
+      "https://images.unsplash.com/photo-1589095053205-8fc842336f4a?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1653227907864-560dce4c252d?auto=format&fit=crop&w=800&q=80"
+    ]
+  },
+  {
+    "id": "prd_013",
+    "sku": "KJ-1013",
+    "slug": "gold-hoops-medium",
+    "pricingMode": "RATE_LINKED",
+    "metal": "GOLD",
+    "purity": "18K",
+    "stoneWeight": 0,
+    "stoneCharge": 0,
+    "diamondCarat": 0,
+    "makingCharge": {
+      "type": "PCT",
+      "value": 13
+    },
+    "fixedPrice": null,
+    "discountPct": 0,
+    "tags": [
+      "new",
+      "trending"
+    ],
+    "sizes": [],
+    "collections": [
+      "everyday-gold",
+      "statement-pieces"
+    ],
+    "certification": "BIS Hallmark 916 (HUID)",
+    "highlights": [
+      "25 mm",
+      "Click closure"
+    ],
+    "inStock": true,
+    "stockQty": 5,
+    "active": true,
+    "featured": false,
+    "order": 13,
+    "views": 127,
+    "whatsappEnquiry": true,
+    "description": "Gold Hoops Medium handcrafted by Kanak artisans. 18K hallmarked gold, available for showroom viewing and insured delivery.",
+    "name": "Gold Hoops Medium",
+    "category": "earrings",
+    "grossWeight": 4.2,
+    "netWeight": 4.2,
+    "images": [
+      "https://images.unsplash.com/photo-1615655114865-4cc1bda5901e?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1617038260897-41a1f14a8ca0?auto=format&fit=crop&w=800&q=80"
+    ]
+  },
+  {
+    "id": "prd_014",
+    "sku": "KJ-1014",
+    "slug": "diamond-studs-0-5-ct",
+    "pricingMode": "RATE_LINKED",
+    "metal": "DIAMOND",
+    "purity": "18K",
+    "stoneWeight": 0,
+    "stoneCharge": 42000,
+    "diamondCarat": 0.5,
+    "makingCharge": {
+      "type": "PCT",
+      "value": 14
+    },
+    "fixedPrice": null,
+    "discountPct": 0,
+    "tags": [],
+    "sizes": [],
+    "collections": [
+      "diamond-edit"
+    ],
+    "certification": "IGI certified, BIS Hallmark 750",
+    "highlights": [
+      "Pair, 0.25 ct each",
+      "Screw back"
+    ],
+    "inStock": true,
+    "stockQty": 5,
+    "active": true,
+    "featured": false,
+    "order": 14,
+    "views": 746,
+    "whatsappEnquiry": true,
+    "description": "Diamond Studs 0.5 ct handcrafted by Kanak artisans. 18K hallmarked gold, available for showroom viewing and insured delivery.",
+    "name": "Diamond Studs 0.5 ct",
+    "category": "earrings",
+    "grossWeight": 2.2,
+    "netWeight": 2,
+    "images": [
+      "https://images.unsplash.com/photo-1626784215021-2e39ccf971cd?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1701777892740-88419a701472?auto=format&fit=crop&w=800&q=80"
+    ]
+  },
+  {
+    "id": "prd_015",
+    "sku": "KJ-1015",
+    "slug": "floral-filigree-antique-bangles",
+    "pricingMode": "RATE_LINKED",
+    "metal": "GOLD",
+    "purity": "22K",
+    "stoneWeight": 0,
+    "stoneCharge": 0,
+    "diamondCarat": 0,
+    "makingCharge": {
+      "type": "PCT",
+      "value": 18
+    },
+    "fixedPrice": null,
+    "discountPct": 0,
+    "tags": [
+      "bestseller"
+    ],
+    "sizes": [
+      "2.4",
+      "2.6",
+      "2.8"
+    ],
+    "collections": [
+      "temple-heritage",
+      "bridal-edit"
+    ],
+    "certification": "BIS Hallmark 916 (HUID)",
+    "highlights": [
+      "Set of 2",
+      "Antique finish"
+    ],
+    "inStock": true,
+    "stockQty": 5,
+    "active": true,
+    "featured": true,
+    "order": 15,
+    "views": 967,
+    "whatsappEnquiry": true,
+    "description": "Floral Filigree Antique Bangles handcrafted by Kanak artisans. 22K hallmarked gold, available for showroom viewing and insured delivery.",
+    "name": "Floral Filigree Antique Bangles",
+    "category": "bangles",
+    "grossWeight": 42,
+    "netWeight": 41.2,
+    "images": [
+      "https://images.unsplash.com/photo-1728381031272-ba3f537feadd?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1611598935678-c88dca238fce?auto=format&fit=crop&w=800&q=80"
+    ]
+  },
+  {
+    "id": "prd_016",
+    "sku": "KJ-1016",
+    "slug": "daily-wear-bangles-pair",
+    "pricingMode": "RATE_LINKED",
+    "metal": "GOLD",
+    "purity": "22K",
+    "stoneWeight": 0,
+    "stoneCharge": 0,
+    "diamondCarat": 0,
+    "makingCharge": {
+      "type": "PER_GRAM",
+      "value": 600
+    },
+    "fixedPrice": null,
+    "discountPct": 0,
+    "tags": [],
+    "sizes": [
+      "2.4",
+      "2.6",
+      "2.8"
+    ],
+    "collections": [
+      "everyday-gold"
+    ],
+    "certification": "BIS Hallmark 916 (HUID)",
+    "highlights": [
+      "Set of 2",
+      "Plain polish"
+    ],
+    "inStock": true,
+    "stockQty": 5,
+    "active": true,
+    "featured": false,
+    "order": 16,
+    "views": 811,
+    "whatsappEnquiry": true,
+    "description": "Daily Wear Bangles Pair handcrafted by Kanak artisans. 22K hallmarked gold, available for showroom viewing and insured delivery.",
+    "name": "Daily Wear Bangles Pair",
+    "category": "bangles",
+    "grossWeight": 18.4,
+    "netWeight": 18.4,
+    "images": [
+      "https://images.unsplash.com/photo-1758995116383-f51775896add?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1690175867343-2af70ea57537?auto=format&fit=crop&w=800&q=80"
+    ]
+  },
+  {
+    "id": "prd_017",
+    "sku": "KJ-1017",
+    "slug": "tennis-bracelet",
+    "pricingMode": "RATE_LINKED",
+    "metal": "DIAMOND",
+    "purity": "18K",
+    "stoneWeight": 0,
+    "stoneCharge": 98000,
+    "diamondCarat": 1.2,
+    "makingCharge": {
+      "type": "PCT",
+      "value": 14
+    },
+    "fixedPrice": null,
+    "discountPct": 0,
+    "tags": [
+      "trending"
+    ],
+    "sizes": [],
+    "collections": [
+      "diamond-edit",
+      "statement-pieces"
+    ],
+    "certification": "IGI certified, BIS Hallmark 750",
+    "highlights": [
+      "1.20 ct total",
+      "7 inch"
+    ],
+    "inStock": true,
+    "stockQty": 5,
+    "active": true,
+    "featured": true,
+    "order": 17,
+    "views": 990,
+    "whatsappEnquiry": true,
+    "description": "Tennis Bracelet handcrafted by Kanak artisans. 18K hallmarked gold, available for showroom viewing and insured delivery.",
+    "name": "Tennis Bracelet",
+    "category": "bracelets",
+    "grossWeight": 9.5,
+    "netWeight": 8.8,
+    "images": [
+      "https://images.unsplash.com/photo-1679156271456-d6068c543ee7?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1741071520904-37ef3c0fea09?auto=format&fit=crop&w=800&q=80"
+    ]
+  },
+  {
+    "id": "prd_018",
+    "sku": "KJ-1018",
+    "slug": "nazariya-bracelet",
+    "pricingMode": "RATE_LINKED",
+    "metal": "GOLD",
+    "purity": "22K",
+    "stoneWeight": 0.2,
+    "stoneCharge": 400,
+    "diamondCarat": 0,
+    "makingCharge": {
+      "type": "PCT",
+      "value": 15
+    },
+    "fixedPrice": null,
+    "discountPct": 0,
+    "tags": [
+      "new"
+    ],
+    "sizes": [],
+    "collections": [
+      "everyday-gold"
+    ],
+    "certification": "BIS Hallmark 916 (HUID)",
+    "highlights": [
+      "Black beads",
+      "Adjustable"
+    ],
+    "inStock": true,
+    "stockQty": 5,
+    "active": true,
+    "featured": false,
+    "order": 18,
+    "views": 120,
+    "whatsappEnquiry": true,
+    "description": "Nazariya Bracelet handcrafted by Kanak artisans. 22K hallmarked gold, available for showroom viewing and insured delivery.",
+    "name": "Nazariya Bracelet",
+    "category": "bracelets",
+    "grossWeight": 3.1,
+    "netWeight": 2.9,
+    "images": [
+      "https://images.unsplash.com/photo-1741071520904-37ef3c0fea09?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1626784215013-13322cb0e471?auto=format&fit=crop&w=800&q=80"
+    ]
+  },
+  {
+    "id": "prd_019",
+    "sku": "KJ-1019",
+    "slug": "mangalsutra-short-chain",
+    "pricingMode": "RATE_LINKED",
+    "metal": "GOLD",
+    "purity": "22K",
+    "stoneWeight": 0.4,
+    "stoneCharge": 600,
+    "diamondCarat": 0,
+    "makingCharge": {
+      "type": "PCT",
+      "value": 14
+    },
+    "fixedPrice": null,
+    "discountPct": 0,
+    "tags": [
+      "bestseller"
+    ],
+    "sizes": [],
+    "collections": [
+      "everyday-gold"
+    ],
+    "certification": "BIS Hallmark 916 (HUID)",
+    "highlights": [
+      "18 inch",
+      "Black beads"
+    ],
+    "inStock": true,
+    "stockQty": 5,
+    "active": true,
+    "featured": true,
+    "order": 19,
+    "views": 711,
+    "whatsappEnquiry": true,
+    "description": "Mangalsutra Short Chain handcrafted by Kanak artisans. 22K hallmarked gold, available for showroom viewing and insured delivery.",
+    "name": "Mangalsutra Short Chain",
+    "category": "mangalsutra",
+    "grossWeight": 7.6,
+    "netWeight": 7.2,
+    "images": [
+      "https://images.unsplash.com/photo-1601121141461-920cb1993441?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1758995115518-26f90aa61b97?auto=format&fit=crop&w=800&q=80"
+    ]
+  },
+  {
+    "id": "prd_020",
+    "sku": "KJ-1020",
+    "slug": "mangalsutra-diamond-pendant",
+    "pricingMode": "RATE_LINKED",
+    "metal": "DIAMOND",
+    "purity": "18K",
+    "stoneWeight": 0,
+    "stoneCharge": 16500,
+    "diamondCarat": 0.22,
+    "makingCharge": {
+      "type": "PCT",
+      "value": 15
+    },
+    "fixedPrice": null,
+    "discountPct": 0,
+    "tags": [],
+    "sizes": [],
+    "collections": [
+      "diamond-edit"
+    ],
+    "certification": "IGI certified, BIS Hallmark 750",
+    "highlights": [
+      "Long chain",
+      "Removable pendant"
+    ],
+    "inStock": true,
+    "stockQty": 5,
+    "active": true,
+    "featured": false,
+    "order": 20,
+    "views": 682,
+    "whatsappEnquiry": true,
+    "description": "Mangalsutra Diamond Pendant handcrafted by Kanak artisans. 18K hallmarked gold, available for showroom viewing and insured delivery.",
+    "name": "Mangalsutra Diamond Pendant",
+    "category": "mangalsutra",
+    "grossWeight": 9.1,
+    "netWeight": 8.6,
+    "images": [
+      "https://images.unsplash.com/photo-1721103418312-b0057a8c31c2?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1705326454924-f6777522b030?auto=format&fit=crop&w=800&q=80"
+    ]
+  },
+  {
+    "id": "prd_021",
+    "sku": "KJ-1021",
+    "slug": "maang-tika-rajasthani",
+    "pricingMode": "RATE_LINKED",
+    "metal": "GOLD",
+    "purity": "22K",
+    "stoneWeight": 0.5,
+    "stoneCharge": 2500,
+    "diamondCarat": 0,
+    "makingCharge": {
+      "type": "PCT",
+      "value": 20
+    },
+    "fixedPrice": null,
+    "discountPct": 0,
+    "tags": [
+      "bridal"
+    ],
+    "sizes": [],
+    "collections": [
+      "bridal-edit",
+      "temple-heritage"
+    ],
+    "certification": "BIS Hallmark 916 (HUID)",
+    "highlights": [
+      "Kundan work",
+      "Pearl drops"
+    ],
+    "inStock": true,
+    "stockQty": 5,
+    "active": true,
+    "featured": false,
+    "order": 21,
+    "views": 350,
+    "whatsappEnquiry": true,
+    "description": "Maang Tika Rajasthani handcrafted by Kanak artisans. 22K hallmarked gold, available for showroom viewing and insured delivery.",
+    "name": "Maang Tika Rajasthani",
+    "category": "tika",
+    "grossWeight": 8.4,
+    "netWeight": 7.9,
+    "images": [
+      "https://images.unsplash.com/photo-1570212773364-e30cd076539e?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1653227907911-6e1afb4cbea1?auto=format&fit=crop&w=800&q=80"
+    ]
+  },
+  {
+    "id": "prd_022",
+    "sku": "KJ-1022",
+    "slug": "maang-tika-borla",
+    "pricingMode": "ON_CALL",
+    "metal": "GOLD",
+    "purity": "22K",
+    "stoneWeight": 0,
+    "stoneCharge": 0,
+    "diamondCarat": 0,
+    "makingCharge": {
+      "type": "PCT",
+      "value": 22
+    },
+    "fixedPrice": null,
+    "discountPct": 0,
+    "tags": [
+      "bridal"
+    ],
+    "sizes": [],
+    "collections": [
+      "bridal-edit"
+    ],
+    "certification": "BIS Hallmark 916 (HUID)",
+    "highlights": [
+      "Traditional Marwari borla",
+      "Made to order"
+    ],
+    "inStock": true,
+    "stockQty": 5,
+    "active": true,
+    "featured": false,
+    "order": 22,
+    "views": 549,
+    "whatsappEnquiry": true,
+    "description": "Maang Tika Borla handcrafted by Kanak artisans. 22K hallmarked gold, available for showroom viewing and insured delivery.",
+    "name": "Maang Tika Borla",
+    "category": "tika",
+    "grossWeight": 14,
+    "netWeight": 13.2,
+    "images": [
+      "https://images.unsplash.com/photo-1570212773364-e30cd076539e?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1626784214536-d859187e0bd0?auto=format&fit=crop&w=800&q=80"
+    ]
+  },
+  {
+    "id": "prd_023",
+    "sku": "KJ-1023",
+    "slug": "jhumar-pasa",
+    "pricingMode": "ON_CALL",
+    "metal": "GOLD",
+    "purity": "22K",
+    "stoneWeight": 0,
+    "stoneCharge": 0,
+    "diamondCarat": 0,
+    "makingCharge": {
+      "type": "PCT",
+      "value": 22
+    },
+    "fixedPrice": null,
+    "discountPct": 0,
+    "tags": [
+      "bridal"
+    ],
+    "sizes": [],
+    "collections": [
+      "bridal-edit"
+    ],
+    "certification": "BIS Hallmark 916 (HUID)",
+    "highlights": [
+      "Side jhumar",
+      "Polki and pearls"
+    ],
+    "inStock": true,
+    "stockQty": 5,
+    "active": true,
+    "featured": false,
+    "order": 23,
+    "views": 985,
+    "whatsappEnquiry": true,
+    "description": "Jhumar Pasa handcrafted by Kanak artisans. 22K hallmarked gold, available for showroom viewing and insured delivery.",
+    "name": "Jhumar Pasa",
+    "category": "jhumar",
+    "grossWeight": 16.5,
+    "netWeight": 15.4,
+    "images": [
+      "https://images.unsplash.com/photo-1653227907911-6e1afb4cbea1?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1653227907864-560dce4c252d?auto=format&fit=crop&w=800&q=80"
+    ]
+  },
+  {
+    "id": "prd_024",
+    "sku": "KJ-1024",
+    "slug": "baju-band-kundan",
+    "pricingMode": "ON_CALL",
+    "metal": "GOLD",
+    "purity": "22K",
+    "stoneWeight": 0,
+    "stoneCharge": 0,
+    "diamondCarat": 0,
+    "makingCharge": {
+      "type": "PCT",
+      "value": 24
+    },
+    "fixedPrice": null,
+    "discountPct": 0,
+    "tags": [
+      "bridal"
+    ],
+    "sizes": [],
+    "collections": [
+      "bridal-edit",
+      "temple-heritage"
+    ],
+    "certification": "BIS Hallmark 916 (HUID)",
+    "highlights": [
+      "Pair",
+      "Adjustable dori"
+    ],
+    "inStock": true,
+    "stockQty": 5,
+    "active": true,
+    "featured": false,
+    "order": 24,
+    "views": 742,
+    "whatsappEnquiry": true,
+    "description": "Baju Band Kundan handcrafted by Kanak artisans. 22K hallmarked gold, available for showroom viewing and insured delivery.",
+    "name": "Baju Band Kundan",
+    "category": "baju-band",
+    "grossWeight": 22,
+    "netWeight": 20.5,
+    "images": [
+      "https://images.unsplash.com/photo-1611598935678-c88dca238fce?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1728381031272-ba3f537feadd?auto=format&fit=crop&w=800&q=80"
+    ]
+  },
+  {
+    "id": "prd_025",
+    "sku": "KJ-1025",
+    "slug": "24k-gold-coin-1-gram",
+    "pricingMode": "RATE_LINKED",
+    "metal": "GOLD",
+    "purity": "24K",
+    "stoneWeight": 0,
+    "stoneCharge": 0,
+    "diamondCarat": 0,
+    "makingCharge": {
+      "type": "FLAT",
+      "value": 350
+    },
+    "fixedPrice": null,
+    "discountPct": 0,
+    "tags": [
+      "investment"
+    ],
+    "sizes": [],
+    "collections": [],
+    "certification": "BIS Hallmark 999, tamper-proof pack",
+    "highlights": [
+      "999.9 purity",
+      "Lakshmi motif"
+    ],
+    "inStock": true,
+    "stockQty": 5,
+    "active": true,
+    "featured": false,
+    "order": 25,
+    "views": 205,
+    "whatsappEnquiry": true,
+    "description": "24K Gold Coin 1 gram handcrafted by Kanak artisans. 24K hallmarked gold, available for showroom viewing and insured delivery.",
+    "name": "24K Gold Coin 1 gram",
+    "category": "coins",
+    "grossWeight": 1,
+    "netWeight": 1,
+    "images": [
+      "https://images.unsplash.com/photo-1624365168898-1f7189831f41?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1718752773168-a44aa1601ddd?auto=format&fit=crop&w=800&q=80"
+    ]
+  },
+  {
+    "id": "prd_026",
+    "sku": "KJ-1026",
+    "slug": "24k-gold-coin-5-gram",
+    "pricingMode": "RATE_LINKED",
+    "metal": "GOLD",
+    "purity": "24K",
+    "stoneWeight": 0,
+    "stoneCharge": 0,
+    "diamondCarat": 0,
+    "makingCharge": {
+      "type": "FLAT",
+      "value": 900
+    },
+    "fixedPrice": null,
+    "discountPct": 0,
+    "tags": [
+      "investment",
+      "bestseller"
+    ],
+    "sizes": [],
+    "collections": [],
+    "certification": "BIS Hallmark 999, tamper-proof pack",
+    "highlights": [
+      "999.9 purity",
+      "Gift box"
+    ],
+    "inStock": true,
+    "stockQty": 5,
+    "active": true,
+    "featured": false,
+    "order": 26,
+    "views": 557,
+    "whatsappEnquiry": true,
+    "description": "24K Gold Coin 5 gram handcrafted by Kanak artisans. 24K hallmarked gold, available for showroom viewing and insured delivery.",
+    "name": "24K Gold Coin 5 gram",
+    "category": "coins",
+    "grossWeight": 5,
+    "netWeight": 5,
+    "images": [
+      "https://images.unsplash.com/photo-1718752773168-a44aa1601ddd?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1624365168898-1f7189831f41?auto=format&fit=crop&w=800&q=80"
+    ]
+  },
+  {
+    "id": "prd_027",
+    "sku": "KJ-1027",
+    "slug": "24k-gold-coin-10-gram",
+    "pricingMode": "RATE_LINKED",
+    "metal": "GOLD",
+    "purity": "24K",
+    "stoneWeight": 0,
+    "stoneCharge": 0,
+    "diamondCarat": 0,
+    "makingCharge": {
+      "type": "FLAT",
+      "value": 1400
+    },
+    "fixedPrice": null,
+    "discountPct": 0,
+    "tags": [
+      "investment"
+    ],
+    "sizes": [],
+    "collections": [],
+    "certification": "BIS Hallmark 999, tamper-proof pack",
+    "highlights": [
+      "999.9 purity",
+      "Gift box"
+    ],
+    "inStock": true,
+    "stockQty": 5,
+    "active": true,
+    "featured": false,
+    "order": 27,
+    "views": 718,
+    "whatsappEnquiry": true,
+    "description": "24K Gold Coin 10 gram handcrafted by Kanak artisans. 24K hallmarked gold, available for showroom viewing and insured delivery.",
+    "name": "24K Gold Coin 10 gram",
+    "category": "coins",
+    "grossWeight": 10,
+    "netWeight": 10,
+    "images": [
+      "https://images.unsplash.com/photo-1643656350988-a39ad266a178?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1718752773168-a44aa1601ddd?auto=format&fit=crop&w=800&q=80"
+    ]
+  },
+  {
+    "id": "prd_028",
+    "sku": "KJ-1028",
+    "slug": "silver-coin-10-gram",
+    "pricingMode": "RATE_LINKED",
+    "metal": "SILVER",
+    "purity": "999",
+    "stoneWeight": 0,
+    "stoneCharge": 0,
+    "diamondCarat": 0,
+    "makingCharge": {
+      "type": "FLAT",
+      "value": 120
+    },
+    "fixedPrice": null,
+    "discountPct": 0,
+    "tags": [
+      "gifting"
+    ],
+    "sizes": [],
+    "collections": [],
+    "certification": "Silver 999",
+    "highlights": [
+      "Lakshmi Ganesh",
+      "Gift pack"
+    ],
+    "inStock": true,
+    "stockQty": 5,
+    "active": true,
+    "featured": false,
+    "order": 28,
+    "views": 705,
+    "whatsappEnquiry": true,
+    "description": "Silver Coin 10 gram handcrafted by Kanak artisans. 999 sterling silver, available for showroom viewing and insured delivery.",
+    "name": "Silver Coin 10 gram",
+    "category": "silver",
+    "grossWeight": 10,
+    "netWeight": 10,
+    "images": [
+      "https://images.unsplash.com/photo-1621862623900-832ef4dd24aa?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1641324115253-f66c552336cb?auto=format&fit=crop&w=800&q=80"
+    ]
+  },
+  {
+    "id": "prd_029",
+    "sku": "KJ-1029",
+    "slug": "silver-payal-pair",
+    "pricingMode": "RATE_LINKED",
+    "metal": "SILVER",
+    "purity": "925",
+    "stoneWeight": 0,
+    "stoneCharge": 0,
+    "diamondCarat": 0,
+    "makingCharge": {
+      "type": "PER_GRAM",
+      "value": 60
+    },
+    "fixedPrice": null,
+    "discountPct": 0,
+    "tags": [
+      "new"
+    ],
+    "sizes": [],
+    "collections": [],
+    "certification": "Sterling silver 925",
+    "highlights": [
+      "Ghungroo design",
+      "Adjustable"
+    ],
+    "inStock": true,
+    "stockQty": 5,
+    "active": true,
+    "featured": false,
+    "order": 29,
+    "views": 913,
+    "whatsappEnquiry": true,
+    "description": "Silver Payal Pair handcrafted by Kanak artisans. 925 sterling silver, available for showroom viewing and insured delivery.",
+    "name": "Silver Payal Pair",
+    "category": "silver",
+    "grossWeight": 48,
+    "netWeight": 48,
+    "images": [
+      "https://images.unsplash.com/photo-1786052351994-37c1af4c55d7?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1786052348368-9c23c72205f9?auto=format&fit=crop&w=800&q=80"
+    ]
+  },
+  {
+    "id": "prd_030",
+    "sku": "KJ-1030",
+    "slug": "silver-pooja-thali-set",
+    "pricingMode": "FIXED",
+    "metal": "SILVER",
+    "purity": "925",
+    "stoneWeight": 0,
+    "stoneCharge": 0,
+    "diamondCarat": 0,
+    "makingCharge": {
+      "type": "FLAT",
+      "value": 0
+    },
+    "fixedPrice": 18500,
+    "discountPct": 0,
+    "tags": [
+      "gifting",
+      "offer"
+    ],
+    "sizes": [],
+    "collections": [],
+    "certification": "Sterling silver 925",
+    "highlights": [
+      "5 piece set",
+      "Gift box"
+    ],
+    "inStock": true,
+    "stockQty": 5,
+    "active": true,
+    "featured": false,
+    "order": 30,
+    "views": 344,
+    "whatsappEnquiry": true,
+    "description": "Silver Pooja Thali Set handcrafted by Kanak artisans. 925 sterling silver, available for showroom viewing and insured delivery.",
+    "name": "Silver Pooja Thali Set",
+    "category": "silver",
+    "mrp": 21000,
+    "grossWeight": 72,
+    "netWeight": 72,
+    "images": [
+      "https://images.unsplash.com/photo-1643393669346-7d2e5fb0c18f?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1621862623900-832ef4dd24aa?auto=format&fit=crop&w=800&q=80"
+    ]
+  }
+]

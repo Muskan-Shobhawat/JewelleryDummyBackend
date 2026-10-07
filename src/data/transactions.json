@@ -1,0 +1,301 @@
+[
+  {
+    "id": "txn_014",
+    "userId": "usr_demo",
+    "status": "CREDITED",
+    "method": "NETBANKING",
+    "txnNo": "ADV-2609-M3W8R",
+    "type": "ADVANCE_GOLD_DEPOSIT",
+    "title": "Advance Gold deposit",
+    "amount": 50000,
+    "grams": 3.675,
+    "rate": 13605,
+    "purity": "22K",
+    "refModel": "advances",
+    "refId": "adv_demo",
+    "createdAt": "2026-09-24T15:05:00.000Z",
+    "meta": {
+      "validityDays": 180
+    },
+    "updatedAt": "2026-09-24T15:05:00.000Z"
+  },
+  {
+    "id": "txn_013",
+    "userId": "usr_demo",
+    "status": "RATE_LOCKED",
+    "method": "UPI",
+    "txnNo": "BMG-2609-K7Q2P",
+    "type": "BOOK_GOLD_ADVANCE",
+    "title": "Book My Gold advance (10 gm, 22K)",
+    "amount": 13605,
+    "grams": 10,
+    "rate": 13605,
+    "purity": "22K",
+    "refModel": "bookings",
+    "refId": "bkg_demo",
+    "createdAt": "2026-09-24T12:30:00.000Z",
+    "meta": {
+      "validityDays": 30
+    },
+    "updatedAt": "2026-09-24T12:30:00.000Z"
+  },
+  {
+    "id": "txn_012",
+    "userId": "usr_demo",
+    "status": "SUCCESS",
+    "method": "UPI",
+    "txnNo": "EMA-2609-HBAXN",
+    "type": "EMA_INSTALLMENT",
+    "title": "Swarn Sanchay instalment 8 of 11",
+    "amount": 10000,
+    "grams": 0.742,
+    "rate": 13486,
+    "purity": "22K",
+    "refModel": "emaPlans",
+    "refId": "ema_demo",
+    "createdAt": "2026-09-05T10:12:00.000Z",
+    "meta": {
+      "installment": 8
+    },
+    "updatedAt": "2026-09-05T10:12:00.000Z"
+  },
+  {
+    "id": "txn_004",
+    "userId": "usr_demo",
+    "status": "SUCCESS",
+    "method": "UPI",
+    "txnNo": "TXN-2609-TOJMS",
+    "type": "DIGI_BUY",
+    "title": "Digi Gold purchase 1.5 gm",
+    "amount": 22071,
+    "grams": 1.5,
+    "rate": 14285,
+    "purity": "24K",
+    "refModel": "holdings",
+    "refId": "hld_demo",
+    "createdAt": "2026-09-02T11:45:00.000Z",
+    "meta": {
+      "base": 21428,
+      "gst": 643
+    },
+    "updatedAt": "2026-09-02T11:45:00.000Z"
+  },
+  {
+    "id": "txn_015",
+    "userId": "usr_demo",
+    "status": "SUCCESS",
+    "method": "CARD",
+    "txnNo": "GFT-2608-D4N6T",
+    "type": "GIFT_CARD",
+    "title": "Gift card ₹5,000 for Neha",
+    "amount": 5000,
+    "refModel": "giftCards",
+    "refId": "gft_demo",
+    "createdAt": "2026-08-20T09:00:00.000Z",
+    "meta": {},
+    "updatedAt": "2026-08-20T09:00:00.000Z"
+  },
+  {
+    "id": "txn_011",
+    "userId": "usr_demo",
+    "status": "SUCCESS",
+    "method": "UPI",
+    "txnNo": "EMA-2608-IQW3D",
+    "type": "EMA_INSTALLMENT",
+    "title": "Swarn Sanchay instalment 7 of 11",
+    "amount": 10000,
+    "grams": 0.76,
+    "rate": 13159,
+    "purity": "22K",
+    "refModel": "emaPlans",
+    "refId": "ema_demo",
+    "createdAt": "2026-08-05T10:12:00.000Z",
+    "meta": {
+      "installment": 7
+    },
+    "updatedAt": "2026-08-05T10:12:00.000Z"
+  },
+  {
+    "id": "txn_003",
+    "userId": "usr_demo",
+    "status": "SUCCESS",
+    "method": "UPI",
+    "txnNo": "TXN-2607-FTF17",
+    "type": "DIGI_BUY",
+    "title": "Digi Gold purchase 0.825 gm",
+    "amount": 12525,
+    "grams": 0.825,
+    "rate": 14739,
+    "purity": "24K",
+    "refModel": "holdings",
+    "refId": "hld_demo",
+    "createdAt": "2026-07-18T11:45:00.000Z",
+    "meta": {
+      "base": 12160,
+      "gst": 365
+    },
+    "updatedAt": "2026-07-18T11:45:00.000Z"
+  },
+  {
+    "id": "txn_010",
+    "userId": "usr_demo",
+    "status": "SUCCESS",
+    "method": "AUTO_DEBIT",
+    "txnNo": "EMA-2607-6VLLT",
+    "type": "EMA_INSTALLMENT",
+    "title": "Swarn Sanchay instalment 6 of 11",
+    "amount": 10000,
+    "grams": 0.742,
+    "rate": 13477,
+    "purity": "22K",
+    "refModel": "emaPlans",
+    "refId": "ema_demo",
+    "createdAt": "2026-07-05T10:12:00.000Z",
+    "meta": {
+      "installment": 6
+    },
+    "updatedAt": "2026-07-05T10:12:00.000Z"
+  },
+  {
+    "id": "txn_009",
+    "userId": "usr_demo",
+    "status": "SUCCESS",
+    "method": "UPI",
+    "txnNo": "EMA-2606-Z36FC",
+    "type": "EMA_INSTALLMENT",
+    "title": "Swarn Sanchay instalment 5 of 11",
+    "amount": 10000,
+    "grams": 0.756,
+    "rate": 13235,
+    "purity": "22K",
+    "refModel": "emaPlans",
+    "refId": "ema_demo",
+    "createdAt": "2026-06-05T10:12:00.000Z",
+    "meta": {
+      "installment": 5
+    },
+    "updatedAt": "2026-06-05T10:12:00.000Z"
+  },
+  {
+    "id": "txn_002",
+    "userId": "usr_demo",
+    "status": "SUCCESS",
+    "method": "UPI",
+    "txnNo": "TXN-2605-1MQNZ",
+    "type": "DIGI_BUY",
+    "title": "Digi Gold purchase 1 gm",
+    "amount": 14711,
+    "grams": 1,
+    "rate": 14283,
+    "purity": "24K",
+    "refModel": "holdings",
+    "refId": "hld_demo",
+    "createdAt": "2026-05-12T11:45:00.000Z",
+    "meta": {
+      "base": 14283,
+      "gst": 428
+    },
+    "updatedAt": "2026-05-12T11:45:00.000Z"
+  },
+  {
+    "id": "txn_008",
+    "userId": "usr_demo",
+    "status": "SUCCESS",
+    "method": "UPI",
+    "txnNo": "EMA-2605-TKLIF",
+    "type": "EMA_INSTALLMENT",
+    "title": "Swarn Sanchay instalment 4 of 11",
+    "amount": 10000,
+    "grams": 0.762,
+    "rate": 13125,
+    "purity": "22K",
+    "refModel": "emaPlans",
+    "refId": "ema_demo",
+    "createdAt": "2026-05-05T10:12:00.000Z",
+    "meta": {
+      "installment": 4
+    },
+    "updatedAt": "2026-05-05T10:12:00.000Z"
+  },
+  {
+    "id": "txn_007",
+    "userId": "usr_demo",
+    "status": "SUCCESS",
+    "method": "AUTO_DEBIT",
+    "txnNo": "EMA-2604-HO30D",
+    "type": "EMA_INSTALLMENT",
+    "title": "Swarn Sanchay instalment 3 of 11",
+    "amount": 10000,
+    "grams": 0.751,
+    "rate": 13315,
+    "purity": "22K",
+    "refModel": "emaPlans",
+    "refId": "ema_demo",
+    "createdAt": "2026-04-05T10:12:00.000Z",
+    "meta": {
+      "installment": 3
+    },
+    "updatedAt": "2026-04-05T10:12:00.000Z"
+  },
+  {
+    "id": "txn_001",
+    "userId": "usr_demo",
+    "status": "SUCCESS",
+    "method": "UPI",
+    "txnNo": "TXN-2603-CLWK9",
+    "type": "DIGI_BUY",
+    "title": "Digi Gold purchase 1.5 gm",
+    "amount": 22050,
+    "grams": 1.5,
+    "rate": 14272,
+    "purity": "24K",
+    "refModel": "holdings",
+    "refId": "hld_demo",
+    "createdAt": "2026-03-05T11:45:00.000Z",
+    "meta": {
+      "base": 21408,
+      "gst": 642
+    },
+    "updatedAt": "2026-03-05T11:45:00.000Z"
+  },
+  {
+    "id": "txn_006",
+    "userId": "usr_demo",
+    "status": "SUCCESS",
+    "method": "UPI",
+    "txnNo": "EMA-2603-X2U01",
+    "type": "EMA_INSTALLMENT",
+    "title": "Swarn Sanchay instalment 2 of 11",
+    "amount": 10000,
+    "grams": 0.757,
+    "rate": 13209,
+    "purity": "22K",
+    "refModel": "emaPlans",
+    "refId": "ema_demo",
+    "createdAt": "2026-03-05T10:12:00.000Z",
+    "meta": {
+      "installment": 2
+    },
+    "updatedAt": "2026-03-05T10:12:00.000Z"
+  },
+  {
+    "id": "txn_005",
+    "userId": "usr_demo",
+    "status": "SUCCESS",
+    "method": "UPI",
+    "txnNo": "EMA-2602-X9XPK",
+    "type": "EMA_INSTALLMENT",
+    "title": "Swarn Sanchay instalment 1 of 11",
+    "amount": 10000,
+    "grams": 0.754,
+    "rate": 13265,
+    "purity": "22K",
+    "refModel": "emaPlans",
+    "refId": "ema_demo",
+    "createdAt": "2026-02-05T10:12:00.000Z",
+    "meta": {
+      "installment": 1
+    },
+    "updatedAt": "2026-02-05T10:12:00.000Z"
+  }
+]

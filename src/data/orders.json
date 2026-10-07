@@ -1,0 +1,58 @@
+[
+  {
+    "id": "ord_demo",
+    "userId": "usr_demo",
+    "orderNo": "ORD-2607-B2X9L",
+    "items": [
+      {
+        "productId": "prd_013",
+        "name": "Gold Hoops Medium",
+        "image": "https://images.unsplash.com/photo-1589128777073-263566ae5e4d?auto=format&fit=crop&w=300&q=80",
+        "qty": 1,
+        "size": null,
+        "purity": "18K",
+        "netWeight": 4.2,
+        "unitPrice": 52900
+      }
+    ],
+    "subtotal": 46690,
+    "makingCharges": 6070,
+    "gst": 1583,
+    "discount": 4669,
+    "couponCode": "KANAK10",
+    "shipping": 0,
+    "total": 49674,
+    "delivery": "COURIER",
+    "address": {
+      "line1": "45, Shastri Nagar",
+      "line2": "Near Rotary Circle",
+      "landmark": "",
+      "city": "Jodhpur",
+      "state": "Rajasthan",
+      "pincode": "342003"
+    },
+    "payment": {
+      "method": "UPI",
+      "paymentId": "pay_seed_ord",
+      "status": "PAID"
+    },
+    "status": "DELIVERED",
+    "source": "WEB",
+    "timeline": [
+      {
+        "status": "CONFIRMED",
+        "at": "2026-07-10T10:00:00.000Z"
+      },
+      {
+        "status": "SHIPPED",
+        "at": "2026-07-12T10:00:00.000Z"
+      },
+      {
+        "status": "DELIVERED",
+        "at": "2026-07-15T14:00:00.000Z"
+      }
+    ],
+    "createdAt": "2026-07-10T10:00:00.000Z",
+    "updatedAt": "2026-07-15T14:00:00.000Z"
+  }
+]
