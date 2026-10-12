@@ -19,7 +19,7 @@ r.get('/config', (req, res) => {
   ok(res, {
     brand: s.brand, theme: s.theme, contact: { ...s.contact, whatsappUrl: whatsappLink() }, announcement: s.announcement, trustBadges: s.trustBadges,
     digiGold: s.digiGold, ema: s.ema, bookGold: s.bookGold, advanceGold: s.advanceGold, checkout: s.checkout, giftCards: s.giftCards, coupons: (s.coupons || []).map(({ code, description }) => ({ code, description })),
-    rates: { publishTimes: s.rates.publishTimes, source: s.rates.source }, demo: { mode: env.demoMode, otp: env.demoMode ? env.demoOtp : undefined, customerMobile: env.demoMode ? '9999999999' : undefined },
+    rates: { publishTimes: s.rates.publishTimes, source: s.rates.source }, demo: { mode: env.demoMode, otp: env.demoMode ? env.demoOtp : undefined, customerMobile: env.demoMode ? '9999999999' : undefined, adminMobile: env.demoMode ? '8888888888' : undefined },
     nav: [
       { label: 'Home', path: '/' }, { label: 'Jewellery', path: '/jewellery' }, { label: 'Digi Gold', path: '/digi-gold' }, { label: s.ema.title, path: '/ema' }, { label: 'Book My Gold', path: '/book-my-gold' }, { label: 'Advance Gold', path: '/advance-gold' }, { label: 'Gift Cards', path: '/gift-cards' }, { label: 'Contact', path: '/contact' },
     ],

@@ -26,7 +26,8 @@ npm run dev              # http://localhost:4000  (auto-restarts on change)
 | Customer mobile | `9999999999` (Priya Sharma, has holdings, EMA plan, booking, advance) |
 | Any other mobile | creates a fresh customer |
 | OTP | `123456` (demo mode also returns it in the send-otp response) |
-| Admin API key | `admin-demo-key` sent as `x-admin-key` header |
+| Admin mobile | `8888888888` (Store Admin, role `ADMIN`; logs in to the storefront's `/admin` panel) |
+| Admin API key | `admin-demo-key` sent as `x-admin-key` header (for scripts; the panel uses the admin's login token) |
 
 ## Project layout
 
@@ -50,7 +51,7 @@ test/api.test.js      end-to-end tests using node:test
 - **Product pricing**: computed at request time from net weight × live rate for the purity + making charge + stone charge + 3% GST. Products can also be `FIXED` price or `ON_CALL` (no price, WhatsApp enquiry only).
 - **WhatsApp ordering**: every product carries a ready `whatsappUrl` with a prefilled message. `POST /api/orders/whatsapp-link` builds one for a whole cart.
 - **Payments**: a mock gateway with a Razorpay-shaped flow. Create → get checkout payload → `POST /api/payments/:id/confirm` with `outcome: success|failure`. On success the purchase is fulfilled (gold credited, instalment marked paid, rate locked, order confirmed). Swap `src/services/payments.js` for a real gateway later; fulfilment handlers stay the same.
-- **Admin API**: generic CRUD on banners, categories, collections, products, faqs, branches plus settings, rates and operational actions. Built for the separate admin panel repo.
+- **Admin API**: generic CRUD on banners, categories, collections, products, faqs, branches plus settings, rates and operational actions. Used by the `/admin` panel in the storefront (JewelleryDummyWebUI). Accepts either the `x-admin-key` header or a JWT for a user with role `ADMIN`.
 
 See [API.md](API.md) for every endpoint with request and response shapes.
 

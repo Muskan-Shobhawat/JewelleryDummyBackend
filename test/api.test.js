@@ -143,3 +143,14 @@ test('admin api is key protected and can publish rates', async () => {
   const ro = await api('/api/admin/users', { method: 'POST', auth: false, headers: { 'x-admin-key': 'admin-demo-key' }, body: {} });
   assert.equal(ro.status, 403);
 });
+
+test('admin api accepts ADMIN user tokens and rejects customers', async () => {
+  const customer = await api('/api/admin/stats');
+  assert.equal(customer.status, 403);
+  await api('/api/auth/send-otp', { method: 'POST', auth: false, body: { mobile: '8888888888' } });
+  const login = await api('/api/auth/verify-otp', { method: 'POST', auth: false, body: { mobile: '8888888888', otp: '123456' } });
+  assert.equal(login.data.user.role, 'ADMIN');
+  const stats = await api('/api/admin/stats', { auth: false, headers: { authorization: `Bearer ${login.data.token}` } });
+  assert.equal(stats.status, 200);
+  assert.ok(stats.data.customers >= 1);
+});

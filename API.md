@@ -2,7 +2,7 @@
 
 Base URL: `http://localhost:4000/api`
 
-Every response is `{ success: true, data, ...extras }` or `{ success: false, message, errors? }`. Authenticated routes need `Authorization: Bearer <token>`. Admin routes need `x-admin-key: <ADMIN_API_KEY>`. Amounts are in rupees (integers for totals, 2 decimals for breakdowns), gold in grams (3 decimals).
+Every response is `{ success: true, data, ...extras }` or `{ success: false, message, errors? }`. Authenticated routes need `Authorization: Bearer <token>`. Admin routes need `x-admin-key: <ADMIN_API_KEY>` or the Bearer token of a user with role `ADMIN`. Amounts are in rupees (integers for totals, 2 decimals for breakdowns), gold in grams (3 decimals).
 
 ## Public
 
@@ -145,7 +145,7 @@ Frontend flow: call purchase endpoint → show mock checkout UI with the payload
 | GET | `/gift-cards` | config + mine |
 | POST | `/gift-cards` | `{ amount, recipientName, recipientMobile, message? }` → `{ payment }`; card issued on confirm |
 
-## Admin (`/admin`, header `x-admin-key`)
+## Admin (`/admin`, header `x-admin-key` or an ADMIN user's Bearer token)
 
 | Method | Path | Purpose |
 |---|---|---|

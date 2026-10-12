@@ -1,5 +1,5 @@
 /**
- * Admin API consumed by the separate admin panel repo. Protected by x-admin-key.
+ * Admin API consumed by the storefront's /admin section. Protected by x-admin-key or an ADMIN user's JWT.
  * Generic CRUD for content collections + operational actions.
  */
 import { Router } from 'express';
@@ -8,7 +8,7 @@ import { db } from '../store/db.js';
 import { ok, created } from '../utils/respond.js';
 import { ApiError } from '../utils/ApiError.js';
 import { validate } from '../middleware/validate.js';
-import { requireAdminKey } from '../middleware/auth.js';
+import { requireAdmin } from '../middleware/auth.js';
 import { setBaseRates, getRates } from '../services/rates.js';
 import * as bookGold from '../services/bookGold.js';
 import * as advanceGold from '../services/advanceGold.js';
@@ -16,7 +16,7 @@ import { ORDER_STATUSES } from '../services/orders.js';
 import { slugify, nowIso } from '../utils/money.js';
 
 const r = Router();
-r.use(requireAdminKey);
+r.use(requireAdmin);
 
 const CONTENT = ['banners', 'categories', 'collections', 'products', 'faqs', 'branches'];
 const READ_ONLY = ['users', 'transactions', 'payments', 'orders', 'emaPlans', 'bookings', 'advances', 'holdings', 'interests', 'tickets', 'giftCards', 'notifications', 'leases'];

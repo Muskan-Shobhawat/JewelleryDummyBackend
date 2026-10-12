@@ -34,8 +34,11 @@ export function optionalAuth(req, res, next) {
   next();
 }
 
-export function requireAdminKey(req, res, next) {
+/** Admin access via x-admin-key (scripts) or a logged-in user with role ADMIN (admin panel). */
+export function requireAdmin(req, res, next) {
   const key = req.headers['x-admin-key'];
-  if (!key || key !== env.adminApiKey) throw ApiError.forbidden('Invalid admin key');
-  next();
+  if (key && key === env.adminApiKey) return next();
+  const user = resolveUser(req);
+  if (user?.role === 'ADMIN') { req.user = user; return next(); }
+  throw ApiError.forbidden('Admin access required');
 }
